@@ -1,4 +1,4 @@
-package ac.za.cput;
+package ac.za.cput.entity;
 
 public class ToBeDelete {
 }
